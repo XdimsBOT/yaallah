@@ -12,7 +12,7 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## Infoooo
-> Original Sc dari https://DikaArdnt/Hisoka-Morou
+> Original Sc dari https://github.com/XdimsBOT/yaallah
 WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
 
 ## DOWNLOAD MODULENYA
@@ -26,8 +26,8 @@ WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdn
 
 
 ```bash
-git clone https://github.com/Nando35/Zetspublic
-cd Zetspublic
+git clone https://github.com/XdimsBOT/yaallah
+cd yaallah
 npm install
 ```
 
@@ -47,7 +47,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Nando35/Zetspublic
+git clone https://github.com/XdimsBOT/yaallah
 cd Zetspublic
 npm install
 ```
@@ -85,5 +85,3 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-Support Me
-* [`Saweria`](https://saweria.co/Nando35)
