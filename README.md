@@ -5,15 +5,15 @@ Script WhatsApp Bot Multi Device, Ori Hisoka-Morou
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/fb1c7b54269534344ba7c.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://i.ibb.co/mJ7N7KT/fecd64681701e4e04cce3168573f7af0.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">ZetsM</h1>
+<h1 align="center">KiranBOT</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## Infoooo
 > Original Sc dari https://github.com/XdimsBOT/yaallah
-WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
+WhatsApp Bot Multi Device [`XdimsBOT/yaallah`](https://github.com/XdimsBOT/yaallah)
 
 ## DOWNLOAD MODULENYA
 * Tinggal Extrak [`Klik disini`](https://www.mediafire.com/file/5h0y1l2hs6aoqqp/node_modules.zip/file)
